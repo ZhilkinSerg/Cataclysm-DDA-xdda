@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "xdda",
+    "name": "Dark Days Ahead (Reorganized)",
+    "description": "Core content for Cataclysm-DDA (reorganized)",
+    "category": "content",
+    "core": true,
+    "path": "../../json-xdda",
+    "legacy": "../../legacy"
+  }
+]
