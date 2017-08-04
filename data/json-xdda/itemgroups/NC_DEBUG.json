@@ -1,17 +1,17 @@
 [
   {
-    "type" : "item_group",
-    "id" : "NC_DEBUG_worn",
-    "items":[ ["towel", 100] ]
+    "id": "NC_DEBUG_worn",
+    "type": "item_group",
+    "items": [ [ "towel", 100 ] ]
   },
   {
-    "type" : "item_group",
-    "id" : "NC_DEBUG_carried",
-    "items":[ ["mininuke", 100] ]
+    "id": "NC_DEBUG_carried",
+    "type": "item_group",
+    "items": [ [ "mininuke", 100 ] ]
   },
   {
-    "type" : "item_group",
-    "id" : "NC_DEBUG_weapon",
-    "items":[ ["soap", 100] ]
+    "id": "NC_DEBUG_weapon",
+    "type": "item_group",
+    "items": [ [ "soap", 100 ] ]
   }
 ]

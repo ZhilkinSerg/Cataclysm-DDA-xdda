@@ -1,12 +1,12 @@
 [
-    {
-        "type": "item_group",
-        "id": "wall_bash_results",
-        "subtype": "collection",
-        "entries": [
-            { "item": "rock", "count": [0, 2] },
-            { "item": "nail", "charges": [2, 8] },
-            { "item": "splinter", "count": [1, 5] }
-        ]
-    }
+  {
+    "id": "wall_bash_results",
+    "type": "item_group",
+    "subtype": "collection",
+    "entries": [
+      { "item": "rock", "count": [ 0, 2 ] },
+      { "item": "nail", "charges": [ 2, 8 ] },
+      { "item": "splinter", "count": [ 1, 5 ] }
+    ]
+  }
 ]

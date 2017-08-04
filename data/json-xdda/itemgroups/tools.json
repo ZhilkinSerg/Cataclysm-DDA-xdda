@@ -1,8 +1,8 @@
 [
   {
-    "id" : "tools_blacksmith",
-    "type" : "item_group",
-    "//" : "Tools commonly used by blacksmiths",
+    "id": "tools_blacksmith",
+    "type": "item_group",
+    "//": "Tools commonly used by blacksmiths",
     "items": [
       [ "anvil", 30 ],
       [ "chisel", 90 ],
@@ -35,9 +35,9 @@
     ]
   },
   {
-    "id" : "tools_common",
-    "type" : "item_group",
-    "//" : "Common household tools",
+    "id": "tools_common",
+    "type": "item_group",
+    "//": "Common household tools",
     "items": [
       [ "hacksaw", 50 ],
       [ "hammer", 80 ],
@@ -119,7 +119,7 @@
   {
     "id": "tools_medical",
     "type": "item_group",
-    "comment": "Portable medical equipment for doctors and paramedics (excludes consumables)",
+    "//": "Portable medical equipment for doctors and paramedics (excludes consumables)",
     "items": [
       [ "scalpel", 50 ],
       [ "scissors", 100 ],
@@ -141,10 +141,10 @@
     ]
   },
   {
-    "id" : "tools_lighting",
-    "type" : "item_group",
+    "id": "tools_lighting",
+    "type": "item_group",
     "//": "Light sources balanced according to rarity",
-    "items" : [
+    "items": [
       [ "candle", 70 ],
       [ "electric_lantern", 20 ],
       [ "handflare", 50 ],
@@ -157,20 +157,20 @@
     ]
   },
   {
-    "id" : "tools_lighting_industrial",
-    "type" : "item_group",
+    "id": "tools_lighting_industrial",
+    "type": "item_group",
     "//": "Light sources used as industrial working equipment.",
-    "items" : [
+    "items": [
       [ "flashlight", 100 ],
       [ "heavy_flashlight", 40 ],
       [ "wearable_light", 60 ]
     ]
   },
   {
-    "id" : "tools_survival",
-    "type" : "item_group",
+    "id": "tools_survival",
+    "type": "item_group",
     "//": "Practical, small and light-weight tools for survival excluding camping gear.",
-    "items" : [
+    "items": [
       [ "binoculars", 30 ],
       [ "canteen", 15 ],
       [ "e_tool", 10 ],
@@ -179,7 +179,7 @@
       [ "hatchet", 10 ],
       [ "knife_hunting", 10 ],
       [ "knife_rambo", 10 ],
-      [ "knife_swissarmy", 5],
+      [ "knife_swissarmy", 5 ],
       [ "knife_trench", 10 ],
       [ "mess_kit", 20 ],
       [ "multitool", 5 ],
@@ -192,9 +192,9 @@
     ]
   },
   {
-    "id" : "tools_tailor",
-    "type" : "item_group",
-    "items" : [
+    "id": "tools_tailor",
+    "type": "item_group",
+    "items": [
       [ "needle_curved", 30 ],
       [ "scissors", 1000 ],
       [ "sewing_kit", 100 ],
