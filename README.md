@@ -1,7 +1,7 @@
 # Cataclysm-DDA-xdda
 ## Description
 
-Reorganized core data mod for [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/). This mod is aimed to be fully compatible copy with original `dda` core data mod with reorganized file structure.
+Reorganized core data mod for [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/). This mod is aimed to be a fully compatible copy of original `dda` core data mod with reorganized file structure.
 
 ## Installation and usage
 
